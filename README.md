@@ -1,5 +1,5 @@
 
-<h3><img  style="align-item" :"center" src="https://graph.org/file/9bec9bc841da2fad3f2ae-b3f23118473a57d1bc.jpg" width="90px" height="80%">
+<h3><img  style="align-item" :"center" src="https://files.catbox.moe/f8gvzw.jpg" width="90px" height="80%">
    <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐊𝐀𝐑𝐌𝐀+𝐃𝐄𝐏𝐋𝐎𝐘𝐒+🇮🇳+🥀"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
@@ -18,7 +18,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=karmaxexclusive)
 
-[<img src="https://github.com/itzshukla/itzshukla/blob/master/resources/hr.gif"/>](https://github.com/itzshukla)
+[<img src="https://github.com/karmaxexclusive/karmaxexclusive/blob/master/resources/hr.gif"/>](https://github.com/karmaxexclusive)
 
 <h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
@@ -26,14 +26,13 @@
 
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
-<a href="https://t.me/MASTIWITHFRIENDSXD"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/MY_LOGS_GC"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 
 ## Connect with Me
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/itzshukla)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MASTIWITHFRIENDSXD)
-
+[![Instagram](https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MASTIWITHFRIENDSXD)
 
 
 
