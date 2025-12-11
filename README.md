@@ -22,7 +22,7 @@
 
 <h1> <img src="last seen long time ago : bio-web-nu.vercel.app" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=6762113050) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/karmaxexclusive) 
+[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://instagram.com/mez.exclusive) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/karmaxexclusive) 
 
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
