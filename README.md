@@ -1,5 +1,5 @@
 
-<h3><img  style="align-item" :"center" src="https://files.catbox.moe/f8gvzw.jpg" width="90px" height="80%">
+<h3><img  style="align-item" :"center" src="[https://files.catbox.moe/f8gvzw.jpg](https://files.catbox.moe/7qgeht.jpg)" width="90px" height="80%">
    <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐊𝐀𝐑𝐌𝐀+𝐃𝐄𝐏𝐋𝐎𝐘𝐒+🇮🇳+🥀"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
