@@ -42,7 +42,7 @@
   <a href="https://instagram.com/mez.exclusive">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/">
+  <a href="https://t.me/ceoage">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/karmaxexclusive">
