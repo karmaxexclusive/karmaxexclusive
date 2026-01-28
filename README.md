@@ -35,6 +35,18 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karmaxexclusive/karmaxexclusive/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karmaxexclusive/karmaxexclusive/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
