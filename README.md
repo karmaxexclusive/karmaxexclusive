@@ -10,14 +10,7 @@
 
 ### 👀 Profile Visitors
 <p align="center">
-  <img src="https://profile-counter.glitch.me/karmaxexclusive/count.svg" />
-</p>
-
----
-
-## 🌌 3D Contribution Calendar
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://komarev.com/ghpvc/?username=karmaxexclusive&style=flat-square&color=00ff88" />
 </p>
 
 ---
@@ -36,10 +29,6 @@
 ---
 
 ## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/karmaxexclusive/karmaxexclusive/output/github-contribution-grid-snake.svg" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/karmaxexclusive/karmaxexclusive/output/github-contribution-grid-snake-dark.svg" />
