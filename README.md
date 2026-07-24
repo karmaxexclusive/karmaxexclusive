@@ -12,11 +12,11 @@
 
 <br/>
 
-<a href="mailto:itsexclusive69@gmail.com"><img src="https://img.shields.io/badge/Email-itsexclusive69%40gmail.com-a742ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://instagram.com/mez.exclusive"><img src="https://img.shields.io/badge/Instagram-%40mez.exclusive-ff5fa2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://t.me/devsbuilt"><img src="https://img.shields.io/badge/Telegram-%40devsbuilt-a742ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="mailto:itsexclusive69@gmail.com"><img src="https://img.shields.io/badge/Email-itsexclusive69%40gmail.com-2f81f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://instagram.com/mez.exclusive"><img src="https://img.shields.io/badge/Instagram-%40mez.exclusive-22d3ee?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://t.me/devsbuilt"><img src="https://img.shields.io/badge/Telegram-%40devsbuilt-2f81f7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=karmaxexclusive&label=Profile%20Views&color=ff5fa2&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=karmaxexclusive&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -66,8 +66,8 @@
 ## 📊 GitHub Stats <sub>(live, auto-updating)</sub>
 
 <div align="center">
-<img src="https://github-readme-stats-beta-teal-54.vercel.app/api?username=karmaxexclusive&show_icons=true&theme=radical&hide_border=true&bg_color=150a22&title_color=ff5fa2&icon_color=a742ff&text_color=f5eefc&count_private=true" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-stats-beta-teal-54.vercel.app/api/top-langs/?username=karmaxexclusive&layout=compact&theme=radical&hide_border=true&bg_color=150a22&title_color=ff5fa2&text_color=f5eefc" width="48%" alt="Top languages"/>
+<img src="https://github-readme-stats-beta-teal-54.vercel.app/api?username=karmaxexclusive&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=2f81f7&text_color=e6edf3&count_private=true" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-stats-beta-teal-54.vercel.app/api/top-langs/?username=karmaxexclusive&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=e6edf3" width="48%" alt="Top languages"/>
 </div>
 
 > These two cards pull live data straight from the GitHub API, so they update automatically as you code — no manual refresh needed.
