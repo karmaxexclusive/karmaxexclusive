@@ -1,0 +1,46 @@
+<svg width="420" height="320" viewBox="0 0 420 320" xmlns="http://www.w3.org/2000/svg">
+  <defs><clipPath id="langsRound"><rect width="420" height="320" rx="18"/></clipPath></defs>
+  <g clip-path="url(#langsRound)">
+    <rect width="420" height="320" fill="#150a22"/>
+    <rect x="1" y="1" width="418" height="318" rx="17" fill="none" stroke="#5b2a86"/>
+    <text x="20" y="34" font-family="Consolas, monospace" font-size="17" font-weight="700" fill="#f5eefc">🧠 Most Used Languages</text>
+    <line x1="20" y1="46" x2="400" y2="46" stroke="#5b2a86"/>
+    
+    <text x="20" y="60" font-family="Consolas, monospace" font-size="13" fill="#f5eefc">JavaScript</text>
+    <text x="400" y="60" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#c9a6e8">32%</text>
+    <rect x="20" y="68" width="380" height="8" rx="4" fill="#1c0f2e"/>
+    <rect x="20" y="68" width="0" height="8" rx="4" fill="#f1e05a">
+      <animate attributeName="width" from="0" to="115.2" dur="1s" begin="0.40s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    </rect>
+    <text x="20" y="100" font-family="Consolas, monospace" font-size="13" fill="#f5eefc">TypeScript</text>
+    <text x="400" y="100" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#c9a6e8">20%</text>
+    <rect x="20" y="108" width="380" height="8" rx="4" fill="#1c0f2e"/>
+    <rect x="20" y="108" width="0" height="8" rx="4" fill="#3178c6">
+      <animate attributeName="width" from="0" to="72.0" dur="1s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    </rect>
+    <text x="20" y="140" font-family="Consolas, monospace" font-size="13" fill="#f5eefc">Python</text>
+    <text x="400" y="140" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#c9a6e8">18%</text>
+    <rect x="20" y="148" width="380" height="8" rx="4" fill="#1c0f2e"/>
+    <rect x="20" y="148" width="0" height="8" rx="4" fill="#3572A5">
+      <animate attributeName="width" from="0" to="64.8" dur="1s" begin="0.70s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    </rect>
+    <text x="20" y="180" font-family="Consolas, monospace" font-size="13" fill="#f5eefc">HTML</text>
+    <text x="400" y="180" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#c9a6e8">12%</text>
+    <rect x="20" y="188" width="380" height="8" rx="4" fill="#1c0f2e"/>
+    <rect x="20" y="188" width="0" height="8" rx="4" fill="#e34c26">
+      <animate attributeName="width" from="0" to="43.2" dur="1s" begin="0.85s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    </rect>
+    <text x="20" y="220" font-family="Consolas, monospace" font-size="13" fill="#f5eefc">CSS</text>
+    <text x="400" y="220" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#c9a6e8">10%</text>
+    <rect x="20" y="228" width="380" height="8" rx="4" fill="#1c0f2e"/>
+    <rect x="20" y="228" width="0" height="8" rx="4" fill="#563d7c">
+      <animate attributeName="width" from="0" to="36.0" dur="1s" begin="1.00s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    </rect>
+    <text x="20" y="260" font-family="Consolas, monospace" font-size="13" fill="#f5eefc">Other</text>
+    <text x="400" y="260" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#c9a6e8">8%</text>
+    <rect x="20" y="268" width="380" height="8" rx="4" fill="#1c0f2e"/>
+    <rect x="20" y="268" width="0" height="8" rx="4" fill="#8a6aa8">
+      <animate attributeName="width" from="0" to="28.8" dur="1s" begin="1.15s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    </rect>
+  </g>
+</svg>
