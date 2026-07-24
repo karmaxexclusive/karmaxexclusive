@@ -78,11 +78,12 @@
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Project One** | One-line description of what it does and the problem it solves | React · Django REST · PostgreSQL | [repo](https://github.com/karmaxexclusive/project-one) |
-| **Project Two** | One-line description of what it does and the problem it solves | Next.js · TypeScript · Supabase | [repo](https://github.com/karmaxexclusive/project-two) |
-| **Project Three** | One-line description of what it does and the problem it solves | Node.js · Express · SQLite | [repo](https://github.com/karmaxexclusive/project-three) |
+| **Ifritgram** | Multi-featured Telegram userbot built on Telethon MTProto | Python · Telethon | [repo](https://github.com/karmaxexclusive/Ifritgram) |
+| **MongoDB Backup Bot** | Telegram bot to backup and restore MongoDB databases via chat commands | Python · PyTDBot · Docker | [repo](https://github.com/karmaxexclusive/mongodb-backup-bot) |
+| **CampaignPilot** <sub>(aka Majduri)</sub> | Telegram automation bot for multi-account campaign management with live stats | Python · Pyrogram · MongoDB | [repo](https://github.com/karmaxexclusive/Majduri) |
+| **yt-dlp_api** | Async FastAPI + Telegram bot ecosystem for YouTube search, metadata, and stream URL extraction | Python · FastAPI · Redis · Deno | [repo](https://github.com/karmaxexclusive/yt-dlp_api) |
 
-> Swap these rows for your real repos, or pin them instead via GitHub's own **Pinned Repositories** feature.
+> Most of these repos are private, so the links above may show "Repository not found" to anyone who isn't logged in as you or added as a collaborator — that's expected, not a broken link.
 
 <br/>
 
