@@ -1,0 +1,93 @@
+<svg width="980" height="200" viewBox="0 0 980 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub trophies for karmaxexclusive">
+<title>GitHub Trophies — karmaxexclusive</title>
+<defs>
+  <linearGradient id="tBg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#170c28"/>
+    <stop offset="100%" stop-color="#0a0614"/>
+  </linearGradient>
+  <linearGradient id="cellGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#241536"/>
+    <stop offset="100%" stop-color="#150a26"/>
+  </linearGradient>
+  <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="48%" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="52%" stop-color="#ffffff" stop-opacity="0.3"/>
+    <stop offset="56%" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <style>
+    .ttl { font-family:'Segoe UI',Arial,sans-serif; font-size:12px; fill:#9a8fc2; }
+    .rk  { font-family:'Segoe UI',Arial,sans-serif; font-size:22px; font-weight:800; }
+    .n   { font-family:'Segoe UI',Arial,sans-serif; font-size:19px; font-weight:700; fill:#ece7fb; }
+  </style>
+</defs>
+<rect x="1" y="1" width="978" height="198" rx="18" fill="url(#tBg)" stroke="#3a2359"/>
+
+<!-- 6 trophy cells -->
+<g id="cells">
+  <!-- template cell repeated via translate -->
+</g>
+
+<g transform="translate(24,20)">
+  <!-- Cell 1: Repositories -->
+  <g opacity="0"><animateTransform attributeName="transform" type="scale" values="0.7;1.05;1" keyTimes="0;0.7;1" dur="0.5s" begin="0.2s" fill="freeze" additive="sum"/><animate attributeName="opacity" values="0;1" begin="0.2s" dur="0.3s" fill="freeze"/>
+    <rect width="145" height="160" rx="14" fill="url(#cellGrad)" stroke="#3a2359"/>
+    <text x="72" y="50" text-anchor="middle" font-size="34">📦</text>
+    <text x="72" y="86" text-anchor="middle" class="rk" fill="#ff9bcb">S</text>
+    <text x="72" y="112" text-anchor="middle" class="n">40+</text>
+    <text x="72" y="134" text-anchor="middle" class="ttl">Repositories</text>
+    <rect width="145" height="160" rx="14" fill="url(#shine)"><animate attributeName="x" values="-145;145" dur="3s" begin="1.4s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- Cell 2: Commits -->
+  <g transform="translate(167,0)" opacity="0"><animateTransform attributeName="transform" type="scale" values="0.7;1.05;1" keyTimes="0;0.7;1" dur="0.5s" begin="0.35s" fill="freeze" additive="sum"/><animate attributeName="opacity" values="0;1" begin="0.35s" dur="0.3s" fill="freeze"/>
+    <rect width="145" height="160" rx="14" fill="url(#cellGrad)" stroke="#3a2359"/>
+    <text x="72" y="50" text-anchor="middle" font-size="34">🔥</text>
+    <text x="72" y="86" text-anchor="middle" class="rk" fill="#ffb700">A</text>
+    <text x="72" y="112" text-anchor="middle" class="n">1.4k+</text>
+    <text x="72" y="134" text-anchor="middle" class="ttl">Commits</text>
+    <rect width="145" height="160" rx="14" fill="url(#shine)"><animate attributeName="x" values="-145;145" dur="3s" begin="1.55s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- Cell 3: Stars -->
+  <g transform="translate(334,0)" opacity="0"><animateTransform attributeName="transform" type="scale" values="0.7;1.05;1" keyTimes="0;0.7;1" dur="0.5s" begin="0.5s" fill="freeze" additive="sum"/><animate attributeName="opacity" values="0;1" begin="0.5s" dur="0.3s" fill="freeze"/>
+    <rect width="145" height="160" rx="14" fill="url(#cellGrad)" stroke="#3a2359"/>
+    <text x="72" y="50" text-anchor="middle" font-size="34">⭐</text>
+    <text x="72" y="86" text-anchor="middle" class="rk" fill="#c04cff">A+</text>
+    <text x="72" y="112" text-anchor="middle" class="n">128</text>
+    <text x="72" y="134" text-anchor="middle" class="ttl">Stars Earned</text>
+    <rect width="145" height="160" rx="14" fill="url(#shine)"><animate attributeName="x" values="-145;145" dur="3s" begin="1.7s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- Cell 4: Pull Requests -->
+  <g transform="translate(501,0)" opacity="0"><animateTransform attributeName="transform" type="scale" values="0.7;1.05;1" keyTimes="0;0.7;1" dur="0.5s" begin="0.65s" fill="freeze" additive="sum"/><animate attributeName="opacity" values="0;1" begin="0.65s" dur="0.3s" fill="freeze"/>
+    <rect width="145" height="160" rx="14" fill="url(#cellGrad)" stroke="#3a2359"/>
+    <text x="72" y="50" text-anchor="middle" font-size="34">🔀</text>
+    <text x="72" y="86" text-anchor="middle" class="rk" fill="#35e6c9">B+</text>
+    <text x="72" y="112" text-anchor="middle" class="n">42</text>
+    <text x="72" y="134" text-anchor="middle" class="ttl">Pull Requests</text>
+    <rect width="145" height="160" rx="14" fill="url(#shine)"><animate attributeName="x" values="-145;145" dur="3s" begin="1.85s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- Cell 5: Followers -->
+  <g transform="translate(668,0)" opacity="0"><animateTransform attributeName="transform" type="scale" values="0.7;1.05;1" keyTimes="0;0.7;1" dur="0.5s" begin="0.8s" fill="freeze" additive="sum"/><animate attributeName="opacity" values="0;1" begin="0.8s" dur="0.3s" fill="freeze"/>
+    <rect width="145" height="160" rx="14" fill="url(#cellGrad)" stroke="#3a2359"/>
+    <text x="72" y="50" text-anchor="middle" font-size="34">🤝</text>
+    <text x="72" y="86" text-anchor="middle" class="rk" fill="#ff3d8a">B</text>
+    <text x="72" y="112" text-anchor="middle" class="n">25+</text>
+    <text x="72" y="134" text-anchor="middle" class="ttl">Followers</text>
+    <rect width="145" height="160" rx="14" fill="url(#shine)"><animate attributeName="x" values="-145;145" dur="3s" begin="2.0s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- Cell 6: Experience -->
+  <g transform="translate(835,0)" opacity="0"><animateTransform attributeName="transform" type="scale" values="0.7;1.05;1" keyTimes="0;0.7;1" dur="0.5s" begin="0.95s" fill="freeze" additive="sum"/><animate attributeName="opacity" values="0;1" begin="0.95s" dur="0.3s" fill="freeze"/>
+    <rect width="145" height="160" rx="14" fill="url(#cellGrad)" stroke="#3a2359"/>
+    <text x="72" y="50" text-anchor="middle" font-size="34">🚀</text>
+    <text x="72" y="86" text-anchor="middle" class="rk" fill="#7c3aed">S+</text>
+    <text x="72" y="112" text-anchor="middle" class="n">3+ yrs</text>
+    <text x="72" y="134" text-anchor="middle" class="ttl">Building in Public</text>
+    <rect width="145" height="160" rx="14" fill="url(#shine)"><animate attributeName="x" values="-145;145" dur="3s" begin="2.15s" repeatCount="indefinite"/></rect>
+  </g>
+</g>
+</svg>
