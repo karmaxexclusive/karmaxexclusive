@@ -70,13 +70,7 @@
 <img src="https://github-readme-stats-beta-teal-54.vercel.app/api/top-langs/?username=karmaxexclusive&layout=compact&theme=radical&hide_border=true&bg_color=150a22&title_color=ff5fa2&text_color=f5eefc" width="48%" alt="Top languages"/>
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=karmaxexclusive&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="90%" alt="Trophy case"/>
-</div>
-
-> These three cards pull live data straight from the GitHub API, so they update automatically as you code — no manual refresh needed. If a card ever shows a broken image, it usually means Vercel's free service is rate-limited; just reload after a minute.
+> These two cards pull live data straight from the GitHub API, so they update automatically as you code — no manual refresh needed.
 
 <br/>
 
