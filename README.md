@@ -66,8 +66,8 @@
 ## 📊 GitHub Stats <sub>(live, auto-updating)</sub>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=karmaxexclusive&show_icons=true&theme=radical&hide_border=true&bg_color=150a22&title_color=ff5fa2&icon_color=a742ff&text_color=f5eefc&count_private=true" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmaxexclusive&layout=compact&theme=radical&hide_border=true&bg_color=150a22&title_color=ff5fa2&text_color=f5eefc" width="48%" alt="Top languages"/>
+<img src="https://github-readme-stats-beta-teal-54.vercel.app/api?username=karmaxexclusive&show_icons=true&theme=radical&hide_border=true&bg_color=150a22&title_color=ff5fa2&icon_color=a742ff&text_color=f5eefc&count_private=true" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-stats-beta-teal-54.vercel.app/api/top-langs/?username=karmaxexclusive&layout=compact&theme=radical&hide_border=true&bg_color=150a22&title_color=ff5fa2&text_color=f5eefc" width="48%" alt="Top languages"/>
 </div>
 
 <br/>
